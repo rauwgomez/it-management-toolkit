@@ -4,7 +4,7 @@ This repository is my portfolio for IT project delivery and IT service managemen
 
 It includes templates, examples, and short notes built while following a free 10-week plan using IBM SkillsBuild, Atlassian University, Cisco NetAcad, Microsoft Learn, and Fortinet training.
 
-## Start here (2 minutes)
+## Start here
 
 If you only read three things, start with:
 - `templates/project-charter.md` — how I define scope, timeline, and success
